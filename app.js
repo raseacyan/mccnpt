@@ -1,6 +1,6 @@
 'use strict';
 const PAGE_ACCESS_TOKEN = process.env.PAGE_ACCESS_TOKEN;
-const APP_URL = "https://mccygn.herokuapp.com";
+const APP_URL = "https://mccnpt.herokuapp.com/";
 
 //new text
 
